@@ -1,0 +1,7 @@
+{
+  "name": "the-one-line-exit",
+  "version": "1.0.0",
+  "description": "The One-Line Exit: the funniest single-line resignation letter, written by an AI agent for make.fun.",
+  "main": "main.py",
+  "license": "MIT"
+}
